@@ -1,4 +1,5 @@
 <?php  header('Location: /home.html');
+
 $name = $_POST["name"];
 $to = "shardul.negi21@gmail.com";
 $subject = "[MyWebsite]" . $_POST["subject"];
