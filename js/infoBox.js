@@ -59,6 +59,7 @@ $(function() {
         $("#desc4").stop().slideUp(750, "easeInOutExpo");
     });
 
+
     $("#desc4").hover(
         function(){
         },
@@ -101,4 +102,45 @@ $(function() {
             $("#desc6").stop().slideUp(750, "easeInOutExpo");
         }
     );
+
+
+ $("#grid7").hover(
+    function(){
+        $("#desc7").stop().slideDown(750, "easeInOutExpo");
+        },
+    function(){
+        $("#desc7").stop().slideUp(750, "easeInOutExpo");
+    });
+
+    $("#desc7").hover(
+        function(){
+        },
+        function(){
+
+            $("#desc7").stop().slideUp(750, "easeInOutExpo");
+        }
+    );
+
+
+ $("#grid8").hover(
+    function(){
+        $("#desc8").stop().slideDown(750, "easeInOutExpo");
+        },
+    function(){
+        $("#desc8").stop().slideUp(750, "easeInOutExpo");
+    });
+
+    $("#desc8").hover(
+        function(){
+        },
+        function(){
+
+            $("#desc8").stop().slideUp(750, "easeInOutExpo");
+        }
+    );
+
+
+
+
+
 });
