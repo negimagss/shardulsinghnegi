@@ -16,7 +16,7 @@ var initInfo = function(){
     and Core functionality development. I have a keen intrest in building things and I believe the hard engineering \
     problems are often intrinsically fun to tackle.  \
     I'm looking for a position where I can solve real customer problems with a business justification, where\
-    I can colloborate, reiterate and also learn in the process learn more about system design and architecture building for business applications.";
+    I can colloborate, reiterate and also learn in the process about system design and architecture building for business applications.";
 
     $("#about-text").append( aboutMe );
 
