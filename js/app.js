@@ -9,11 +9,7 @@ var initInfo = function(){
 
     var aboutMe = "Hi, \
     I am a masters student\
-    from Northeastern University. I am very passionate and a quick learner \
-    with a strong base of object oriented programming. My intrests are aligned with \
-     machine learning, cyber security, artificial intelligence and web development. \
-    While I'm proficient in Full Stack development with 4 years of experience, I am most productive with API building, system design  \
-    and Core functionality development. I have a keen intrest in building things and I believe the hard engineering \
+    from Northeastern University.  I have a keen intrest in building things and I believe the hard engineering \
     problems are often intrinsically fun to tackle.  \
     I'm looking for a position where I can solve real customer problems with a business justification, where\
     I can colloborate, reiterate and also learn in the process about system design and architecture building for business applications.";
