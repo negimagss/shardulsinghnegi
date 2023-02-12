@@ -139,6 +139,23 @@ $(function() {
         }
     );
 
+    $("#grid9").hover(
+        function(){
+            $("#desc9").stop().slideDown(750, "easeInOutExpo");
+            },
+        function(){
+            $("#desc9").stop().slideUp(750, "easeInOutExpo");
+        });
+    
+        $("#desc9").hover(
+            function(){
+            },
+            function(){
+    
+                $("#desc9").stop().slideUp(750, "easeInOutExpo");
+            }
+        );
+
 
 
 
